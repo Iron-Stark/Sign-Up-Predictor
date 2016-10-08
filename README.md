@@ -1,1 +1,1 @@
-# Sign-Up-Predictor
+Modelling Decision trees and taking into account Gini Impurity and Entropy Metrics, user-data from reference sites helped us to predict whether a user will sign up for the Premium Service, Basic Service or no service after the trial period ends. The same algorithm was then applied to Property pricing and hotornot dataset to achieve moderate success.  
