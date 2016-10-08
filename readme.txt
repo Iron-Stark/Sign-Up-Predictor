@@ -1,0 +1,1 @@
+Modelling Decision Trees (CART) and taking into account the Gini impurity and Entropy metrics, the incoming user data (reference site,etc) helped us target those users which are more likely to buy premium access to a particular service after trial period ends. The same algorithms were then later applied to Property pricing to achieve moderate success.
